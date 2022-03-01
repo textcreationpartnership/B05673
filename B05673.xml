@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation, for raising pioniers, and providing baggage-horses to the army.</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05673</idno>
+            <idno type="STC">Wing S1895</idno>
+            <idno type="STC">ESTC R183527</idno>
+            <idno type="EEBO-CITATION">52528984</idno>
+            <idno type="OCLC">ocm 52528984</idno>
+            <idno type="VID">179085</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05673)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179085)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2776:74)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation, for raising pioniers, and providing baggage-horses to the army.</title>
+                  <author>Scotland. Privy Council.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heir of Andrew Anderson, Printer to the King and Queens most excellent Majesties,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>Anno Dom. 1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Initial letter.</note>
+                  <note>Intentional blank spaces in text.</note>
+                  <note>Dated at end: Given under Our Signet at Edinburgh, the third day of June, 1690. And of Our Reign, the second year.</note>
+                  <note>Signed: Da. Moncreiff, Cls. Sti. Concilii.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland. --  Army --  Military construction operations --  Law and legislation --  Early works to 1800.</term>
+               <term>Scotland. --  Army --  Construction mechanics --  Early works to 1800.</term>
+               <term>Scotland. --  Army --  Equipment --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:179085:1" rendition="simple:additions"/>
+            <head>
+               <hi>A PROCLAMATION,</hi> For Raiſing Pioniers, and providing Baggage-Horſes to the Army.</head>
+            <opener>
+               <signed>
+                  <seg rend="decorInit">W</seg>ILLIAM and MARY, by the Grace of GOD, King and Queen of <hi>Great-Britain, France,</hi> and <hi>Ireland,</hi> Defenders of the Faith,</signed>
+               <salute>To Our Lovits, Macers of Our Privy Council, Meſſengers at Arms, and our Sheriffs in that part, conjunctly and ſeverally, ſpecially Conſtitute, Greeting:</salute>
+            </opener>
+            <p>Foraſmuch, as We and the Eſtates of Parliament, Have by Our Act, of the Date the thir<g ref="char:EOLhyphen"/>ty one Day of <hi>May</hi> laſt by-paſt, Impowered the Lords, and others of Our Privy Council, to provide ſuch a number of Pio<g ref="char:EOLhyphen"/>niers, as ſhall be found neceſſary to be furniſhed out of the Countries neighbouring with, and neareſt to <hi>Innerlochie,</hi> in the moſt convenient Methods, for the eaſe of the Countrey, and effectuating the Deſign or making a Fortification at the ſaid place; and Have alſo Impowered Our Privy Council, to proportion and Impoſe Baggage Horſes, for tranſporting of Proviſion and Furniture, neceſſary to the Ar<g ref="char:EOLhyphen"/>my, as is more fully expreſt in the ſaid Act of Parliament. And We, with Advice of Our Privy Council, finding that it is requiſit and ne<g ref="char:EOLhyphen"/>ceſſary for the more effectual proſecution of Our Service, in this preſent Expedition, that there be the number of five hundred Pioniers rai<g ref="char:EOLhyphen"/>ſed out of the particular Shires and Burghs aftermentioned, and ſent to the particular places under-written, the dayes after-ſpecified, in order to their March, under the Conduct of Our Forces, to Work and make up a Fortification at <hi>Innerlochie,</hi> and that a competent number of Baggage Horſes be ſent alongſt with the Forces, under the Command of Major General <hi>McKay,</hi> in his March againſt the Rebels, now in Arms againſt Us and Our Authority, to remain and abide with Our Army, during ſuch ſpace as the ſaid Major General <hi>McKay,</hi> or in his abſence, the Chief Commander of Our Army for the time ſhall appoint. Therefore We, with Advice of Our Privy Council, Do Or<g ref="char:EOLhyphen"/>dain the Sheriffs of the Shires of <hi>Sutherland, Caithneſs, Inverneſs, Roſſe, Nairn, Cromarty, Elgin, Bamff, Aberdene,</hi> and <hi>Kincardin</hi> to meet, with two or three of the Commiſſioners of Supply, within the reſpective Shires, if more cannot be had, and to proportion and ſend out the number of Pioniers aftermentioned, out of the Shires underwritten, <hi>viz.</hi> The number of twenty two out of Sutherland, thirty five out of <hi>Caithneſſe,</hi> the number of an hundred fifty four Pioniers out of the Shires of <hi>Inverneſſe</hi> and <hi>Roſſe,</hi> whereof eighty three out of the Shire of <hi>Roſſe,</hi> and ſeventy one out of the Shire of <hi>Inverneſſe,</hi> (the Burghs not included) the number of ſeventeen out of the Shire of <hi>Nairn</hi> the number of five out of the Shire of <hi>Crommarty,</hi> ſixty three out of <hi>Elgine,</hi> ſixty eight out of the Shire of <hi>Bamſſ,</hi> and out of the Shires of <hi>Aberdene</hi> and <hi>Kin<g ref="char:EOLhyphen"/>cardin,</hi> the Town of <hi>Aberdene</hi> included, becauſe of the great diſtance, and of their being otherwiſe imployed in Their Majeſties Service, the number of an hundred Pioniers, whereof the number of ſixty nine out of the Shire of <hi>Aberdene,</hi> fourteen out of the Burgh thereof, and the number of ſeventeen out of the Shire of <hi>Kincardin</hi>: And We, with Advice and Conſent foreſaid, Appoints the Magiſtrats of the Burghs after rehearſed, to raiſe and ſend out the number of Pioniers afterſpecified, <hi>viz.</hi> The Magiſtrats of <hi>Week</hi> one, the Magiſtrats of <hi>Forreſs</hi> two, the Magiſtrats of <hi>Dingwall</hi> one, the Majiſtrats of <hi>Dornock,</hi> one the Magiſtrats ot <hi>Forteroſſe</hi> two, the Magiſtrats of <hi>Tajn</hi> two, the Magiſtrats of <hi>Crommarty</hi> two the Magiſtrats of <hi>Inverneſſe</hi> thirteen, the Magiſtrats of <hi>Cullen</hi> one, the Majiſtrats of Bamſſ three, the Magiſtrats of <hi>Nairn</hi> one, and the Magiſtrats of <hi>Elgin</hi> ſix: And We Ordain the Pioniers within the Shires of <hi>Kincardin, Aberdene</hi> and <hi>Bamſſ,</hi> to be at <hi>Strathhogie,</hi> upon the eighteenth day of <hi>June</hi> inſtant; and theſe Pioniers which are to be ſent out of the rema<g ref="char:EOLhyphen"/>nent Shires and Burghs above-mentioned, to be at <hi>Inverneſſe</hi> upon the ſaid eighteenth day ot <hi>June</hi> current, with Certification to ſuch who ſhall be appointed to furniſh, and ſend out the ſaids number of Pioniers, that if they ſhall failȝie to give ready obedience to Our Commands, that they ſhall not only be lyable in the ſum of eight ſhilling <hi>Scots</hi> a day, during the whole ſpace and time the ſaids Pioniers ſhall be imployed at the ſaid Fortification, and until they return, but ſhall alſo be otherways puniſhed as Contemners of Our Authority, in ſuch way and manner as Our Privy Council ſhall find juſt; And for the more effectual proſecution thereof, We hereby allow the Sheriffs of the reſpective Shires, with two or three of the Commiſſioners of Supply, to give order to quarter upon the Deficients, for payment of the ſaid eight ſhilling <hi>Scots</hi> a-day, in the ſame way and manner as for the Ceſs; and that the Sheriffs of the Shire ſhall be lyable to hold compt therefore: And We do in the <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>anner, Ordain the Leaders of Militia Horſe within the Shires of <hi>Stirling</hi> and <hi>Clackmannan, Fife</hi> and <hi>Kinroſſe, Perth</hi> and <hi>Forſar,</hi> to ſend out each of them a ſufficient Baggage Horſe, for each Militia Horſe they lead, ſufficiently furniſhed and graithed with Sodds and Sack, an pair of Backels or Creills, and the ſaid Leaders to ſend out a man with each two Horſe, extending the ſaids Baggage Horſes, for the Shires of <hi>Fife</hi> and <hi>Kinroſſe,</hi> (the Towns not included) to the number of an hundred ſeventy ſix Horſes, for the Shire of <hi>Stirling</hi> and <hi>Clackmannan,</hi> to the number of eighty eight Horſes: for the Shire of <hi>Perth,</hi> to the number of an hundred ſeventy ſix Horſes, and for the Shire of <hi>Forſar,</hi> to the number of an hundred and three <hi>Horſes</hi>: And We appoint the Magiſtrats of the ſeveral Burghs under-written, to ſend out the proportion of Horſe and Men after-mentioned, <hi>viz.</hi> The Magiſtrats of <hi>Perth,</hi> the number ot ten Horſes and five men, the Magiſtrats of <hi>Dundee,</hi> the number of fifteen Horſes and eight men, the Magiſtrats of <hi>Stirling</hi> five Horſes and three men, the Magiſtrats of <hi>St. Andrews,</hi> ſix Horſes and three men, the Magiſtrats of <hi>Dyſart</hi> two Horſes and one man, the Magiſtrats of <hi>Monroſſe</hi> five Horſes and three men, the Magiſtrats of <hi>Anſtruther</hi> Eaſter and Weſter, one Horſe and one Man, the Magiſtrats of <hi>Innerkeithing,</hi> one Horſe and one Man, the Magiſtrats of <hi>Brichen,</hi> one Horſe and one Man, the Magiſtrats of <hi>Pittenweem,</hi> two Horſe and one Man, the Magiſtrats of <hi>Dumfermling,</hi> two Horſe and one Man, the Magiſtrats of <hi>Aberbrothick,</hi> one Horſe and one Man, the Magiſtrats of <hi>Culroſſe,</hi> one Horſe and one Man, and the Magiſtrats of <hi>Crail,</hi> two Horſe and one man; All ſuffi<g ref="char:EOLhyphen"/>ciently furniſhed with Graith and Furniture; in manner above-mentioned. And We, with Advice of the Lords of Our Privy Council, Do hereby give and grant full Power and Warrant to each of the ſaids Leaders of the Militia, to preſs the Horſe, or Horſes he is lyable to furniſh within any part of his Locality, not exceeding the value of fourty eight pounds <hi>Scots,</hi> and We appoint that the ſaids Leaders cauſe value and com<g ref="char:EOLhyphen"/>priſe the ſaid Horſe or Horſes, they ſhall ſend out by three honeſt Neighbours upon Oath, before the Sheriff of the Shire, or his Depute, or a<g ref="char:EOLhyphen"/>ny two of the ſaids Commiſſioners, with their Graith, not exceeding forty ſhiliing <hi>Scots,</hi> to the end, that if they ſhall not return, or if they do return, in caſe they ſhall be pryzed worſe, each Heretor within the Leaders Locality may be anſwerable, for the Leaders Relief, according to the proportion of his valued Rent; and if they make not ready payment thereof, We do hereby Authorize the Commiſſioners of the Militia, or any two of them, upon application to grant Warrants to quarter and poynd for the ſaid proportion, and to cauſe appriſe the poynds according to the manner of poynding for deficiency of the Militia. And We hereby allow the Heretors to take their relief for the proportion by Poll off the Tennents, and their Inhabitants within their bounds, the Cottars and Tradeſmen being reckoned to a third. And further, We with Ad<g ref="char:EOLhyphen"/>vice and Conſent foreſaid, Do hereby grant Warrant to every Leader to preſs a Man to go along with every two Horſe, out of any part of his Locality, in caſe of refuſal, And We hereby Require the Leaders of the Militia Horſe, and the Magiſtrats of the Burghs above-mentioned to ſend their proportion or Horſes and Men ſo furniſhed, and raiſed in manner foreſaid, to the Burgh of <hi>Perth</hi> betwixt and the twelfth Day of this cur<g ref="char:EOLhyphen"/>rent Month of <hi>June,</hi> with Certification to ſuch as ſhall failȝie herein, they ſhall be lyable in payment of the ſum of ſixty pounds <hi>Scots</hi> for each de<g ref="char:EOLhyphen"/>ficient Horſe, to be applyed for the relief of any other Horſe that ſhall be preſſed through his default; And further, ſhall be lyable to be puniſh<g ref="char:EOLhyphen"/>ed in his perſon and Goods at the Councils pleaſure, as diſaffected to Us and Our Government. And We Allow and Impower the Majiſtrats of the Burghs <hi>reſpective</hi> abovementioned, to preſs the Horſes and Men to be ſent out by them within their own Juriſdiction, and to ſtent the cur<g ref="char:EOLhyphen"/>geſſes and Inhabitants for relief thereof, and of the Graith to be ſent along with them, the value of the Horſe, not exceeding the ſaid ſum of for<g ref="char:EOLhyphen"/>ty eight pounds; <hi>Scots,</hi> and the Graith forty ſhilling money foreſaid. And We Do hereby Declare, That theſe Pioniers, as alſo the men that ſhall go along with the Baggage Horſes, ſhall have two pecks of <hi>Meal,</hi> and twelve ſhilling <hi>Scots</hi> a-week, or five ſhilling <hi>Scots</hi> a-day, payed and furniſhed to them by the Commiſſars and Paymaſters of the Army, they alwayes entertaining themſelves, and that from the day of their arrival at the places reſpective above-mentioned, to which they are appointed to march in manner foreſaid. Our Will is herefore, and We Charge you ſtraitly and Command, that incontinent, theſe Our Letters ſeen, ye paſs, and in Our Name and Authority, make publication hereof, at the Mercat Crofs of <hi>Edinburgh,</hi> and at the Head Burghs of the reſpective Shires abovementioned, and at the ſeveral Church-Doors within the ſaids Shires upon <hi>Sunday</hi> after Divine Service, immediatly after receipt hereof, by the Sheriffs of the Shires and their Deputs, that none may pretend Ignorance. And Ordains theſe Preſents to be Printed.</p>
+            <closer>
+               <dateline>Given under our Signet at <hi>Edinburgh,</hi> 
+                  <date>the third day of <hi>June, 1690.</hi> And of Our Reign, the ſecond Year.</date>
+               </dateline>
+               <signed>Per actum Dominorum Secreti Concilii.
+<hi>DA. MONCREIFF,</hi> Cls. Sti. Concilii.</signed>
+            </closer>
+            <closer>GOD ſave King WILLIAM and Queen MARY.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to the King and Queens moſt Excellent <hi>Majeſties, Anno DOM,</hi> 1690</p>
+         </div>
+      </back>
+   </text>
+</TEI>
